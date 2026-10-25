@@ -1,0 +1,6 @@
+{
+  "name": "High-Performance Hybrid AI Moderation System",
+  "description": "Production 4-tier hybrid AI comment moderation engine: Rules, Classical ML (TF-IDF + Logistic Regression), Gemini LLM Fallback, and Human-in-the-Loop Queue with 95% cost reduction and sub-10ms latency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
